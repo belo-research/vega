@@ -1,0 +1,332 @@
+{
+  "vegalite": {
+    "pt_br": {
+      "locale": {
+        "number": {
+          "decimal": ",",
+          "thousands": ".",
+          "grouping": [
+            3
+          ],
+          "currency": [
+            "",
+            " R$"
+          ]
+        },
+        "time": {
+          "dateTime": "%A, de %e. %B %Y, %X",
+          "date": "%d.%m.%Y",
+          "time": "%H:%M:%S",
+          "periods": [
+            "AM",
+            "PM"
+          ],
+          "days": [
+            "Domingo",
+            "Segunda-feira",
+            "Terça-feira",
+            "Quarta-feira",
+            "Quinta-feira",
+            "Sexta-feira",
+            "Sábado"
+          ],
+          "shortDays": [
+            "Dom",
+            "Seg",
+            "Ter",
+            "Qua",
+            "Qui",
+            "Sex",
+            "Sab"
+          ],
+          "months": [
+            "Janeiro",
+            "Fevereiro",
+            "Março",
+            "Abril",
+            "Maio",
+            "Junho",
+            "Julho",
+            "Agosto",
+            "Setembro",
+            "Outubro",
+            "Novembro",
+            "Dezembro"
+          ],
+          "shortMonths": [
+            "Jan",
+            "Fev",
+            "Mar",
+            "Abr",
+            "Mai",
+            "Jun",
+            "Jul",
+            "Ago",
+            "Set",
+            "Out",
+            "Nov",
+            "Dez"
+          ]
+        }
+      },
+      "style": {
+        "cell": {
+          "stroke": "transparent"
+        },
+        "line": {
+          "strokeCap": "round",
+          "strokeWidth": 2,
+          "tooltip": true
+        },
+        "text": {
+          "font": "Inter"
+        }
+      },
+      "mark": {
+        "tooltip": true
+      },
+      "line": {
+        "point": true,
+        "tooltip": true
+      },
+      "geoshape": {
+        "strokeCap": "round",
+        "stroke": "#f8f9fa",
+        "strokeWidth": 1,
+        "scheme": [
+          "#fa3817",
+          "#fa6b2b",
+          "#ffb06e",
+          "#fce0b2",
+          "#73b0a6",
+          "#008a96",
+          "#007094",
+          "#005FA0"
+        ]
+      },
+      "axis": {
+        "grid": true,
+        "gridCap": "round",
+        "gridWidth": 1,
+        "gridColor": "#e9ecef",
+        "domainColor": "white",
+        "labelColor": "#343a40",
+        "labelFont": "Inter",
+        "labelFontSize": 12,
+        "tickColor": "#ced4da",
+        "tickWidth": 1,
+        "tickBand": "extent",
+        "tickRound": true,
+        "titleColor": "#212529",
+        "titleFont": "Inter",
+        "titleFontWeight": 400
+      },
+      "legend": {
+        "symbolType": "circle",
+        "labelFont": "Inter",
+        "labelFontSize": 12,
+        "titleFont": "Inter",
+        "titleFontSize": 12,
+        "titleFontWeight": 600,
+        "titleFrame": "group",
+        "labelOffset": 5,
+        "padding": 30,
+        "rowPadding": 10,
+        "symbolOffset": -16
+      },
+      "title": {
+        "anchor": "start",
+        "frame": "group",
+        "color": "#212529",
+        "font": "Inter",
+        "fontWeight": 700,
+        "fontSize": 20,
+        "subtitleFont": "Inter",
+        "subtitleFontWeight": 500,
+        "subtitleFontSize": 18
+      },
+      "range": {
+        "category": [
+          "#fa3817",
+          "#fa6b2b",
+          "#ffb06e",
+          "#fce0b2",
+          "#73b0a6",
+          "#008a96",
+          "#007094",
+          "#005FA0"
+        ],
+        "diverging": [
+          "#fa3817",
+          "#fa6b2b",
+          "#ffb06e",
+          "#fce0b2",
+          "#73b0a6",
+          "#008a96",
+          "#007094",
+          "#005FA0"
+        ],
+        "heatmap": [
+          "#fa3817",
+          "#fa6b2b",
+          "#ffb06e",
+          "#fce0b2",
+          "#73b0a6",
+          "#008a96",
+          "#007094",
+          "#005FA0"
+        ],
+        "ordinal": [
+          "#fa3817",
+          "#fa6b2b",
+          "#ffb06e",
+          "#fce0b2",
+          "#73b0a6",
+          "#008a96",
+          "#007094",
+          "#005FA0"
+        ],
+        "ramp": [
+          "#fa3817",
+          "#fa6b2b",
+          "#ffb06e",
+          "#fce0b2",
+          "#73b0a6",
+          "#008a96",
+          "#007094",
+          "#005FA0"
+        ]
+      }
+    },
+    "en_us": {
+      "style": {
+        "cell": {
+          "stroke": "transparent"
+        },
+        "line": {
+          "strokeCap": "round",
+          "strokeWidth": 2,
+          "tooltip": true
+        },
+        "text": {
+          "font": "Inter"
+        }
+      },
+      "mark": {
+        "tooltip": true
+      },
+      "line": {
+        "point": true,
+        "tooltip": true
+      },
+      "geoshape": {
+        "strokeCap": "round",
+        "stroke": "#f8f9fa",
+        "strokeWidth": 1,
+        "scheme": [
+          "#fa3817",
+          "#fa6b2b",
+          "#ffb06e",
+          "#fce0b2",
+          "#73b0a6",
+          "#008a96",
+          "#007094",
+          "#005FA0"
+        ]
+      },
+      "axis": {
+        "grid": true,
+        "gridCap": "round",
+        "gridWidth": 1,
+        "gridColor": "#e9ecef",
+        "domainColor": "white",
+        "labelColor": "#343a40",
+        "labelFont": "Inter",
+        "labelFontSize": 12,
+        "tickColor": "#ced4da",
+        "tickWidth": 1,
+        "tickBand": "extent",
+        "tickRound": true,
+        "titleColor": "#212529",
+        "titleFont": "Inter",
+        "titleFontWeight": 400
+      },
+      "legend": {
+        "symbolType": "circle",
+        "labelFont": "Inter",
+        "labelFontSize": 12,
+        "titleFont": "Inter",
+        "titleFontSize": 12,
+        "titleFontWeight": 600,
+        "titleFrame": "group",
+        "labelOffset": 5,
+        "padding": 30,
+        "rowPadding": 10,
+        "symbolOffset": -16
+      },
+      "title": {
+        "anchor": "start",
+        "frame": "group",
+        "color": "#212529",
+        "font": "Inter",
+        "fontWeight": 700,
+        "fontSize": 20,
+        "subtitleFont": "Inter",
+        "subtitleFontWeight": 500,
+        "subtitleFontSize": 18
+      },
+      "range": {
+        "category": [
+          "#fa3817",
+          "#fa6b2b",
+          "#ffb06e",
+          "#fce0b2",
+          "#73b0a6",
+          "#008a96",
+          "#007094",
+          "#005FA0"
+        ],
+        "diverging": [
+          "#fa3817",
+          "#fa6b2b",
+          "#ffb06e",
+          "#fce0b2",
+          "#73b0a6",
+          "#008a96",
+          "#007094",
+          "#005FA0"
+        ],
+        "heatmap": [
+          "#fa3817",
+          "#fa6b2b",
+          "#ffb06e",
+          "#fce0b2",
+          "#73b0a6",
+          "#008a96",
+          "#007094",
+          "#005FA0"
+        ],
+        "ordinal": [
+          "#fa3817",
+          "#fa6b2b",
+          "#ffb06e",
+          "#fce0b2",
+          "#73b0a6",
+          "#008a96",
+          "#007094",
+          "#005FA0"
+        ],
+        "ramp": [
+          "#fa3817",
+          "#fa6b2b",
+          "#ffb06e",
+          "#fce0b2",
+          "#73b0a6",
+          "#008a96",
+          "#007094",
+          "#005FA0"
+        ]
+      }
+    }
+  }
+}
